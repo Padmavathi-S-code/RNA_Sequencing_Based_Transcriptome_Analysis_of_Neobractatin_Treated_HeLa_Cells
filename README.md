@@ -504,6 +504,7 @@ The detailed references used for this project are provided in the internship the
 
 ## Resources
 https://nf-co.re/rnaseq/3.27.0/
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168841
 
 
 
