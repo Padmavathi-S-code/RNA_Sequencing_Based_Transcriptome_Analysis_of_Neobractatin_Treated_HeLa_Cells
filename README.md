@@ -502,6 +502,11 @@ The detailed references used for this project are provided in the internship the
 
 ---
 
+## Resources
+https://nf-co.re/rnaseq/3.27.0/
+
+
+
 ## Author
 
 **Padmavathi S**
